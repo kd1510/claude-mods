@@ -1,0 +1,8 @@
+{
+  "name": "todo",
+  "version": "0.1.0",
+  "description": "A todo list in a side pane beside the chat, kept between sessions",
+  "author": { "name": "kd1510" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

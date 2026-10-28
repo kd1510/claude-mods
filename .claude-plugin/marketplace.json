@@ -1,0 +1,14 @@
+{
+  "name": "claude-mods",
+  "owner": {
+    "name": "kd1510"
+  },
+  "description": "Mods for Claude Code: panes, commands and hooks",
+  "plugins": [
+    {
+      "name": "todo",
+      "source": "./todo",
+      "description": "A todo list in a side pane beside the chat, kept between sessions"
+    }
+  ]
+}
